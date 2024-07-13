@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TO-DO List</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <h1>TO-DO</h1>
+        <input type="text" id="taskInput" placeholder="Enter task"style="margin-bottom:30px;">
+        <button onclick="addTask()"style="margin-bottom:2px;">Add</button>
+        <h3>TO-DO LIST</h3>
+        <ul id="taskList"></ul>
+        <button id="deleteAll" onclick="deleteAllTasks()" style="display:none;">Delete All</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
