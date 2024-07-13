@@ -12,7 +12,7 @@ Welcome to the To-Do List Project! This project is a simple and efficient way to
 
 
 
-## preview of the project 
+## Preview of the project 
 ![To-D0](https://github.com/user-attachments/assets/163f5e61-820a-491e-b488-4cb5b28dbf03)
 
 
